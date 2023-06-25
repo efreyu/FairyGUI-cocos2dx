@@ -46,3 +46,4 @@ libfairygui/proj.ios_mac/build/fairygui.build
 
 .idea/
 .vscode/
+cmake-build-*
