@@ -43,3 +43,6 @@ libfairygui/proj.ios_mac/fairygui.xcodeproj/project.xcworkspace
 libfairygui/proj.ios_mac/build/fairygui.build
 .DS_Store
 .objs
+
+.idea/
+.vscode/
